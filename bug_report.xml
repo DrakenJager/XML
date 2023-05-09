@@ -1,1 +1,12 @@
-
+<?xml version="1.0"?>
+<structure_of_bug_report>
+  <first>id</first>
+  <second>environment</second>
+  <third>title</third>
+  <fourth>precondition</fourth>
+  <fifth>steps to reproduce</fifth>
+  <sixth>expected result</sixth>
+  <seventh>actual result</seventh>
+  <eight>attachments</eight>
+  <ninth>bug link</ninth>
+</structure_of_bug_report>  
