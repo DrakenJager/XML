@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <personal_information>
-<first_name>Kirill</first_name>
-<last_name>Katomin</last_name>
-<surname>Dmitrievich</surname>
-<age>30 year old</age>
-<number_of_pets>0</number_of_pets>
-<desired_salary>200000</desired_salary>
+ <first_name>Kirill</first_name>
+ <last_name>Katomin</last_name>
+ <surname>Dmitrievich</surname>
+ <age>30 year old</age>
+ <number_of_pets>0</number_of_pets>
+ <desired_salary>200000</desired_salary>
 </personal_information>
