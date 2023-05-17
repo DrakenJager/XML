@@ -2,7 +2,7 @@
 
 ###  1. Создать внешний репозиторий c названием XML
 
-    Repositories -> New -> Repos Name:JSON -> Check "Add a README file" -> Press "Create repository"
+    Repositories -> New -> Repos Name:XML -> Check "Add a README file" -> Press "Create repository"
    
 ###  2. Клонировать репозиторий XML на локальный компьютер
 
