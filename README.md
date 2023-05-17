@@ -4,11 +4,11 @@
 
     Repositories -> New -> Repos Name:JSON -> Check "Add a README file" -> Press "Create repository"
    
-###  2. Клонировать репозиторий JSON на локальный компьютер
+###  2. Клонировать репозиторий XML на локальный компьютер
 
     git clone <repository HTTPS>
     
-###  3. Внутри локального JSON создать файл "new.xml"
+###  3. Внутри локального XML создать файл "new.xml"
 
     touch new.xml
     
