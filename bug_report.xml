@@ -1,12 +1,13 @@
 <?xml version="1.0"?>
 <structure_of_bug_report>
-  <first>id</first>
-  <second>environment</second>
-  <third>title</third>
-  <fourth>precondition</fourth>
-  <fifth>steps to reproduce</fifth>
-  <sixth>expected result</sixth>
-  <seventh>actual result</seventh>
-  <eight>attachments</eight>
-  <ninth>bug link</ninth>
+  <first>1) id : 1</first>
+  <second>2) severity : trivial</second>
+  <third>3) environment: Windows 10, Firefox 112</third>
+  <fourth>4) title : Button [Practise For Free] on multiple selector of main page not fully rendered</fourth>
+  <fifth>5) steps to reproduce : 1. Navigate to ******.com 2. Scroll 1 and 3 page of multiple selector</fifth>
+  <sixth>6) expected result : Button [Practise For Free] full rendered</sixth>
+  <seventh>7) actual result : Button [Practise For Free] on page 1 and 3 of multiple selector on license CYSEC not fully rendered and on 1 page on license SCB</seventh>
+  <eight>8) attachments : video link</eight>
+  <ninth>9) bug started : @KKatomin</ninth>
+  <ten>10) bug comments : none</ten>
 </structure_of_bug_report>  
